@@ -4,6 +4,10 @@ test.db
 test.txt
 sina.html
 
+#sublime
+*.sublime-project
+*.sublime-workspace
+
 # C extensions
 *.so
 
